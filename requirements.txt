@@ -1,0 +1,7 @@
+load_dotenv
+streamlit
+crewai
+langchain_google_genai
+langchain_openai
+crewai_tools
+smtplib
